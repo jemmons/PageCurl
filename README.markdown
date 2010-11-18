@@ -16,4 +16,4 @@ May 2010
 
 
 [1]: http://itunes.com/apps/VERVM
-[2]: http://verum-corpus.com
+[2]: http://verumcorpus.com
